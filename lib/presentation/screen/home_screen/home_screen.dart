@@ -39,12 +39,10 @@ class _HomeScreenState extends State<HomeScreen> {
                   return _gradientContainer(weatherData);
                 case Status.error:
                   return Center(
-                    child: Text('error'),
+                    child: Text('Server No Response'),
                   );
                 default:
-                  return Center(
-                    child: Text('Error'),
-                  );
+                  return ResponseErrorWidget();
               }
             },
           ),

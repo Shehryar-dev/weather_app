@@ -40,9 +40,7 @@ class _FamousCityTileState extends State<FamousCityTile> {
             // return Center(child: Text('Internet Exception'),);
 
           default:
-            return Center(
-              child: Text('Error Found'),
-            );
+            return ResponseErrorWidget();
         }
       }),
     );

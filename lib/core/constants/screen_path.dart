@@ -38,6 +38,8 @@ export 'package:weather_app/presentation/views/weekly_forecast_view/widgets/week
 export 'package:weather_app/presentation/views/weekly_forecast_view/widgets/super_script_text.dart';
 export 'package:weather_app/presentation/screen/weather_detailed_screen/widgets/detail_content_body.dart';
 export 'package:weather_app/presentation/screen/home_screen/widgets/main_section_widget.dart';
+export 'package:weather_app/presentation/common/response_error_widget/error_widget.dart';
+
 
 ///loader
 export 'package:weather_app/presentation/common/shimmer_loader/shimmer_loader.dart';

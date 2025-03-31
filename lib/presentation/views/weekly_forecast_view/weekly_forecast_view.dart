@@ -36,7 +36,7 @@ class _WeeklyForecastViewState extends State<WeeklyForecastView> {
                  return LoaderTile();
 
                default:
-                 return Center(child: Text('Failed Server'),);
+                 return ResponseErrorWidget();
              }
           }
       ),

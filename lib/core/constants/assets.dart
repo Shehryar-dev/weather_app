@@ -7,6 +7,9 @@ class ImageString {
   static final String pattern3 = 'assets/images/pattern3.png';
 
 
+  static final String locationAnimation = 'assets/animations/address404.json';
+
+
 
 
 }
