@@ -13,7 +13,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    _timer = Timer(Duration(seconds: 13), () {
+    _timer = Timer(Duration(seconds: 11), () {
       Navigator.pushNamedAndRemoveUntil(context, RoutesNames.introScreen, (route)=>false);
     });
   }
