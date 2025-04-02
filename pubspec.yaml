@@ -81,6 +81,13 @@ flutter:
 
 
   fonts:
+#    - family: MaterialIcons
+#      fonts:
+#        - asset: build/web/assets/fonts/MaterialIcons-Regular.otf
+
+#    - family: MaterialIcons
+#      fonts:
+#        - asset: fonts/MaterialIcons-Regular.otf
     - family: Lita-Regular
       fonts:
         - asset: assets/fonts/LilitaOne-Regular.ttf
@@ -93,7 +100,8 @@ flutter:
     - family: Ex-Regular
       fonts:
         - asset: assets/fonts/Exo2-Regular.ttf
-  
+
+
 
   
   

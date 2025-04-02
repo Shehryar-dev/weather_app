@@ -12,7 +12,6 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.dark,
       darkTheme: ThemeData.dark(),
       initialRoute: RoutesNames.splashScreen,
-      // home: BottomNavWidget(),
       onGenerateRoute: Routes.generateRoutes,
     );
   }
