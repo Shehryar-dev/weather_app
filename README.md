@@ -3,9 +3,15 @@
 A **Flutter**-based weather application using the **OpenWeather API** 🌍.  
 This app provides real-time weather updates, forecasts, and stunning weather animations.
 
-## 📸 App Demo
+---
+## App Ui Mockup
 ![App Mockup](assets/screenshots/weather-app-1.png)
 ![App Mockup](assets/screenshots/weather-app-2.png)
+
+## 📸 App Demo
+![App Mockup](assets/screenshots/weather-app-demo.mp4)
+
+---
 
 ## ✨ Features
 ✅ **Live Weather Data** – Fetches real-time weather updates using OpenWeather API.  
