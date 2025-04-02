@@ -13,7 +13,6 @@ class _WeeklyForecastViewState extends State<WeeklyForecastView> {
   @override
   void initState() {
     _bloc = WeeklyWeatherBloc(repo: getIT());
-    // TODO: implement initState
     super.initState();
   }
 
