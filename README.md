@@ -9,7 +9,7 @@ This app provides real-time weather updates, forecasts, and stunning weather ani
 ![App Mockup](assets/screenshots/weather-app-2.png)
 
 ## 📸 App Demo
-![App Mockup](assets/screenshots/weather-app-demo.mp4)
+![App Mockup](assets/screenshots/weather-app-demo.gif)
 
 ---
 
